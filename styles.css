@@ -11,7 +11,7 @@ body {
 a {
     text-decoration: none;
 }
-img {
+.img1 {
     width: 800px;
     display: block;
     margin: 0 auto;
@@ -264,7 +264,7 @@ tr:hover {
     main h3 {
         font-size: 20px;
     }
-    .img {
+    .img1 {
         width: 300px;
     }
 }
@@ -294,7 +294,7 @@ tr:hover {
     /* Ще більше зменшуємо розмір шрифту в навігації "Про" */
     .about__a {
         font-size: 18px;
-    .img {
+    .img1 {
         width: 200px;
     }
     }
