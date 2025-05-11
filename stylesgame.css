@@ -321,7 +321,10 @@ main p {
         font-size: 20px;
     }
 
-    img, .skibidi {
+    .skibidi {
+        width: 300px;
+    }
+    img {
         width: 300px;
     }
     .tree {
