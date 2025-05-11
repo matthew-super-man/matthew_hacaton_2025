@@ -303,6 +303,7 @@ footer {
     background-color: #1B1A17;
     text-align: center;
     padding: 10px 0 10px;
+    width: 100%;
 }
 .scroll-btn {
     color: #E45826;
