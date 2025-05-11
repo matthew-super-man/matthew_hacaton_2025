@@ -283,6 +283,9 @@ main p {
     .tree {
         width: 200px;
     }
+    main iframe {
+    width: 400px;
+}
 }
 
 /* Додаткові медіа-запити для дуже малих екранів */
@@ -324,6 +327,9 @@ main p {
     .tree {
         width: 140px;
     }
+    main iframe {
+    width: 300px;
+}
     /* Зменшуємо анімацію для малих екранів */
     @keyframes skewAnimation {
         0% { transform: skew(0deg, 0deg); }
