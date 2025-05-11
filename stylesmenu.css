@@ -299,6 +299,10 @@ main p {
     .text:hover {
         font-size: 20px;
     }
+
+    img {
+        width :300px;
+    }
     
     /* Зменшуємо анімацію для малих екранів */
     @keyframes skewAnimation {
