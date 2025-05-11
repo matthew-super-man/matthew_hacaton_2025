@@ -246,7 +246,6 @@ tr:hover {
     
     /* Адаптуємо таблиці для мобільних пристроїв */
     table {
-        display: block;
         overflow-x: auto;
         white-space: nowrap;
     }
@@ -264,6 +263,9 @@ tr:hover {
     
     main h3 {
         font-size: 20px;
+    }
+    img {
+        width: 500px;
     }
 }
 
@@ -292,6 +294,9 @@ tr:hover {
     /* Ще більше зменшуємо розмір шрифту в навігації "Про" */
     .about__a {
         font-size: 18px;
+    img {
+        width: 300px;
+    }
     }
 }
 footer {
