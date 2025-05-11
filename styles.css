@@ -264,8 +264,8 @@ tr:hover {
     main h3 {
         font-size: 20px;
     }
-    img {
-        width: 400px;
+    .img {
+        width: 300px;
     }
 }
 
@@ -294,7 +294,7 @@ tr:hover {
     /* Ще більше зменшуємо розмір шрифту в навігації "Про" */
     .about__a {
         font-size: 18px;
-    img {
+    .img {
         width: 200px;
     }
     }
