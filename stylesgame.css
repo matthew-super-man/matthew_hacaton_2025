@@ -283,8 +283,8 @@ main p {
     .tree {
         width: 200px;
     }
-    main iframe {
-    width: 400px;
+    iframe {
+    width: 100%;
 }
 }
 
@@ -330,8 +330,8 @@ main p {
     .tree {
         width: 140px;
     }
-    main iframe {
-    width: 300px;
+    iframe {
+    width: 100%;
 }
     /* Зменшуємо анімацію для малих екранів */
     @keyframes skewAnimation {
