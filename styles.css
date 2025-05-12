@@ -246,6 +246,7 @@ tr:hover {
     
     /* Адаптуємо таблиці для мобільних пристроїв */
     table {
+        display: block;
         overflow-x: auto;
         white-space: nowrap;
     }
