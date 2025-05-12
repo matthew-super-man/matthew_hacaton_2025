@@ -284,7 +284,7 @@ main p {
         width: 200px;
     }
     iframe {
-    width: 100%;
+    width: 80%;
 }
 }
 
@@ -331,7 +331,7 @@ main p {
         width: 140px;
     }
     iframe {
-    width: 100%;
+    width: 80%;
 }
     /* Зменшуємо анімацію для малих екранів */
     @keyframes skewAnimation {
