@@ -266,6 +266,7 @@ tr:hover {
     }
     .img1 {
         width: 300px;
+        border-radius: 10px; 
     }
 }
 
@@ -296,6 +297,7 @@ tr:hover {
         font-size: 18px;
     .img1 {
         width: 200px;
+        border-radius: 8px; 
     }
     }
 }
