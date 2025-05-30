@@ -14,6 +14,7 @@ a {
 img {
     width: 740px;
     box-shadow: 4px 4px 10px 1px#727272;
+    border-radius: 20px;
 }
 .skibidi {
     width: 550px;
@@ -279,6 +280,7 @@ main p {
 
     img, .skibidi {
         width: 400px;
+        border-radius: 10px;
     }
     .tree {
         width: 200px;
@@ -324,6 +326,7 @@ main p {
     }
     img {
         width: 300px;
+        border-radius: 8px;
     }
     .tree {
         width: 140px;
