@@ -6,7 +6,9 @@ body {
     margin: 0px;
     padding-top: 80px; /* Відступ для фіксованого хедера */
 }
-
+img {
+border-radius: 20px;
+}
 /* Прибираємо підкреслення для посилань */
 a {
     text-decoration: none;
