@@ -282,6 +282,7 @@ main p {
     }
     .tree {
         width: 200px;
+        height: 400px;
     }
 }
 
@@ -326,6 +327,7 @@ main p {
     }
     .tree {
         width: 140px;
+        height: 280px;
     }
 
     /* Зменшуємо анімацію для малих екранів */
