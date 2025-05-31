@@ -75,7 +75,7 @@ main {
     color: #1B1A17;
     font-family: inherit;
     font-weight: 800;
-    cursor: pointer;
+    cursor: crosshair;
     position: relative;
     border: none;
     background: none;
