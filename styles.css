@@ -75,7 +75,7 @@ main {
     color: #1B1A17;
     font-family: inherit;
     font-weight: 800;
-    cursor: crosshair;
+    cursor: url('https://cdn-icons-png.flaticon.com/128/6639/6639117.png'), auto;
     position: relative;
     border: none;
     background: none;
